@@ -36,4 +36,5 @@ while True:
         w = csv.writer(f)
         w.writerow([row, stamp])
     time.sleep(600)
-    
+
+print('githubtest')
