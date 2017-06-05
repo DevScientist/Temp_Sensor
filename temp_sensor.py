@@ -37,4 +37,3 @@ while True:
         w.writerow([row, stamp])
     time.sleep(600)
 
-print('githubtest')
